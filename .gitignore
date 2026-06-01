@@ -1,0 +1,10 @@
+.env
+.env.local
+
+codealike.json
+
+# folders
+sandbox/
+
+# compiled files
+**/*/__pycache__
